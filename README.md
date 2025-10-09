@@ -16,7 +16,6 @@ This Java Applet demonstrates **deprecated Java web technology** with a simple b
 - Demonstrates the complete Applet lifecycle
 - Includes visual boundaries and status information
 
-##  How to Run (The Old Way)
 
 ### Prerequisites
 - JDK 8 or earlier (Applets are deprecated in newer versions)
