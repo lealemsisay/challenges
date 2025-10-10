@@ -17,8 +17,14 @@ This Java Applet demonstrates **deprecated Java web technology** with a simple b
 - Includes visual boundaries and status information
 
 
-### Prerequisites
-- JDK 8 or earlier (Applets are deprecated in newer versions)
-- appletviewer tool (included with JDK)
+ ##  How to Run
 
+### Prerequisites
+- Java JDK 8 or later
+- Command line terminal
+
+### Steps to Run
+1. **Compile the Java file:**
+   ```bash
+   javac Chapter1_Challenge_1_1.java
  
