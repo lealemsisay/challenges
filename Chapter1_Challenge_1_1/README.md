@@ -1,6 +1,6 @@
 # Chapter 1 Challenge: The Cryptic Message Decoder
 
-## 🕵️‍♂️ Project Overview
+##  Project Overview
 A Java application that decrypts secret messages hidden within integers using mathematical operations. This program demonstrates core Java concepts including variables, operators, input validation, and exception handling.It also take input from user.
 
 ## 📋 Project Details
@@ -9,10 +9,10 @@ A Java application that decrypts secret messages hidden within integers using ma
 - **Package**: Chapter1_Challenge_1_1
 - **Technology**: Java Console Application
 
-## 🎯 Mission Objective
+## Mission Objective
 You are a secret agent who intercepted a cryptic message. The message is an integer, but the real information is hidden within it through a series of mathematical operations.
 
-## 🔍 How the Decoding Works
+##  How the Decoding Works
 For an input like `13579`, the program:
 1. **Extracts** first digit (1) and last digit (9)
 2. **Calculates** product of first and last digits (1 × 9 = 9)
@@ -20,7 +20,7 @@ For an input like `13579`, the program:
 4. **Calculates** sum of second and second-last digits (3 + 7 = 10)
 5. **Combines** results as strings: "9" + "10" = **"910"**
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - Java JDK 8 or later
