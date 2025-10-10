@@ -3,7 +3,7 @@
 ##  Project Overview
 A Java application that decrypts secret messages hidden within integers using mathematical operations. This program demonstrates core Java concepts including variables, operators, input validation, and exception handling.It also take input from user.
 
-## 📋 Project Details
+##  Project Details
 - **Project Name**: Chapter1_Challenge_1_1
 - **Java Class**: Chapter1_Challenge_1_1.java
 - **Package**: Chapter1_Challenge_1_1
