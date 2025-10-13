@@ -34,7 +34,7 @@ package Chapter1_Challenge_1_1;
                 highestAverageNumber = number;
             }
         }
-
+     
         // Step 6: After checking all, print the final winner
         System.out.println("The winning number with the highest average is: " 
                            + highestAverageNumber + " with an average of " + highestAverage);
