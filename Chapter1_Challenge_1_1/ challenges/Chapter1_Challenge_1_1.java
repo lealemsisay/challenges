@@ -2,7 +2,7 @@ package Chapter1_Challenge_1_1;
 
  public class LotteryNumberAnalyzer {
     public static void main(String[] args) {
-
+https://github.com/lealemsisay/challenges/tree/main/Chapter1_Challenge_1_1
          String[] winningNumbers = {"12-34-56-78-90", "33-44-11-66-22", "01-02-03-04-05"};
 
          double highestAverage = 0;
