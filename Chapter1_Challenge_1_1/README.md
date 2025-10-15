@@ -1,4 +1,4 @@
- # Chapter 1 Challenge: The Cryptic Message Decoder
+ # Chapter 1 Challenge 1: The Cryptic Message Decoder
 
 ##  Project Overview
 A Java application that decrypts secret messages hidden within integers using mathematical operations. This program demonstrates core Java concepts including variables, operators, input validation, and exception handling. It also takes input from the user.

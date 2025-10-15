@@ -1,4 +1,4 @@
- # Chapter 1 Challenge:  Lottory Number Analyzer
+ # Chapter 1 Challenge 2:  Lottory Number Analyzer
 
 ##  Project Overview
  A Java application that analyzes lottery numbers by calculating the sum and average of their digits. This program demonstrates core Java concepts including arrays, string manipulation, loops, and mathematical operations.
