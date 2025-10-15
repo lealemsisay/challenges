@@ -31,7 +31,7 @@
 - Command line terminal
 
 ### Steps to Run
-*Ensure you are in the parent directory that contains the `Chapter1_Challenge_1_2` package folder.*
+*Ensure you are in the parent directory that contains the `Chapter1_Challenge_1_3` package folder.*
 
 1. **Compile the Java file:**
    ```bash
